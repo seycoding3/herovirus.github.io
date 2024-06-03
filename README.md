@@ -1,2 +1,2 @@
 # herovirus.github.io
-HeroVirus Offical Page
+HeroVirus Official Page
